@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 estudando Python e JavaScrip
+- 🌱 estudando Python e JavaScript
 - 📫 fale comigigo atravez do twitter (@arthuziiim_) 
 
   
