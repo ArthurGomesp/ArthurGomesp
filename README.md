@@ -7,8 +7,6 @@
 
 
 - 🌱 estudando Python e JavaScript
-- 📫 fale comigigo atravez do twitter (@arthuziiim_)
-- 📫 fale comigigo atravez do instagram (@arthuzim_) 
 
   
 <div style="display: inline_block"><br>
