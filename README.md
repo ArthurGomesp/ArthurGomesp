@@ -16,6 +16,8 @@
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  alt"Arthur-bootstrap"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center"  alt"Arthur-nodejs"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center"  alt"Arthur-elixir"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+          
   
   <!--
   <img align="center"  alt"Arthur-react"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
