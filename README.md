@@ -1,6 +1,6 @@
 ### Hii! i am Arthur 🙃
  <h3>• 🏫 Systems Analysis and Development - Anhanguera</h3>
- <h3>• 🌱 java and MySql</h3>
+ <h3>• 🌱 Java, MySql, PostgreSQL</h3>
 
 <div align="center">
   <a href="#">
@@ -21,7 +21,7 @@
   [![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
 
   + ### Frameworks and tools:   
-  [![My Skills](https://skillicons.dev/icons?i=spring,angular,git,maven,mysql,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=spring,git,maven,mysql,postgres,linux)](https://skillicons.dev)
 
    + ### Softwares:   
    [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
