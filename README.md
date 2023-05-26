@@ -5,7 +5,7 @@
 <div align="center">
   <a href="#">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuzim&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGomesp&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons"
       alt="Most used languages in my repos"/>
   </a>
   <br>
