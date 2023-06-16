@@ -1,6 +1,6 @@
 ### Hii! i am Arthur 🙃
  <h3>• 🏫 Systems Analysis and Development - Anhanguera</h3>
- <h3>• 🌱 Java, MySql, PostgreSQL</h3>
+ <h3>• 🌱 Java, MySql, Spring</h3>
 
 <div align="center">
   <a href="#">
