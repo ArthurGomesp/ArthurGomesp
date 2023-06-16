@@ -18,10 +18,10 @@
 
   
   + ### Languages: 
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
 
   + ### Frameworks and tools:   
-  [![My Skills](https://skillicons.dev/icons?i=spring,git,maven,mysql,postgres,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=spring,git,maven,mysql,linux)](https://skillicons.dev)
 
    + ### Softwares:   
    [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
