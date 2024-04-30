@@ -1,6 +1,7 @@
 ### Hii! i am Arthur 🙃
  <h3>• 🏫 Systems Analysis and Development - Anhanguera</h3>
  <h3>• 🌱 Java, MySql, Spring</h3>
+ <h3>• 🌱 Learning Angular</h3>
 
 <div align="center">
   <a href="#">
@@ -18,9 +19,9 @@
 
   
   + ### Languages: 
-  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular)](https://skillicons.dev)
 
-  + ### Frameworks and tools:   
+  + ### Frameworks:   
   [![My Skills](https://skillicons.dev/icons?i=spring,git,maven,mysql,linux,idea,vscode,postman&perline=4)](https://skillicons.dev)
 
 
